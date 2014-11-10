@@ -1,3 +1,5 @@
+As of today...this repo will be committed to termination. No further udates will be provided
+
 #3a.
 The tree has to form a straight chain in order to produce Omega(n) upon one bad operation.
 A straight chain tree form by multiple insertions of nodes with keys arrange in sequential order.
